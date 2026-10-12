@@ -1,17 +1,18 @@
 {
-  "generated_at": "2026-10-10T15:35:14+00:00",
-  "snapshot_date": "2026-10-10",
+  "generated_at": "2026-10-12T09:20:45+00:00",
+  "snapshot_date": "2026-10-12",
   "snapshots": [
-    "2026-10-10"
+    "2026-10-10",
+    "2026-10-12"
   ],
-  "primary_metric": "aa_intelligence_index",
+  "primary_metric": "eci",
   "counts": {
-    "models": 806,
-    "with_price": 376,
+    "models": 511,
+    "with_price": 206,
     "batch": {
-      "unavailable": 197,
-      "estimated": 115,
-      "official": 64
+      "unavailable": 101,
+      "official": 60,
+      "estimated": 45
     }
   },
   "benchmarks": {
