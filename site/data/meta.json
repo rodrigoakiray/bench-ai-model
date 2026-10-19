@@ -1,18 +1,19 @@
 {
-  "generated_at": "2026-10-12T09:20:45+00:00",
-  "snapshot_date": "2026-10-12",
+  "generated_at": "2026-10-19T09:13:47+00:00",
+  "snapshot_date": "2026-10-19",
   "snapshots": [
     "2026-10-10",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-19"
   ],
   "primary_metric": "eci",
   "counts": {
-    "models": 511,
-    "with_price": 206,
+    "models": 515,
+    "with_price": 209,
     "batch": {
       "unavailable": 101,
-      "official": 60,
-      "estimated": 45
+      "official": 62,
+      "estimated": 46
     }
   },
   "benchmarks": {
