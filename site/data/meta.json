@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-11-09T09:07:34+00:00",
-  "snapshot_date": "2026-11-09",
+  "generated_at": "2026-11-16T09:07:46+00:00",
+  "snapshot_date": "2026-11-16",
   "snapshots": [
     "2026-10-10",
     "2026-10-12",
     "2026-10-19",
     "2026-10-26",
     "2026-11-02",
-    "2026-11-09"
+    "2026-11-09",
+    "2026-11-16"
   ],
   "primary_metric": "eci",
   "counts": {
-    "models": 503,
-    "with_price": 202,
+    "models": 505,
+    "with_price": 207,
     "batch": {
-      "unavailable": 99,
-      "official": 64,
-      "estimated": 39
+      "unavailable": 100,
+      "official": 67,
+      "estimated": 40
     }
   },
   "benchmarks": {
